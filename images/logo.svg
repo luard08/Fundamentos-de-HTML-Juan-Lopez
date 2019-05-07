@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<svg width="200" height="100" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g class="layer">
+  <title>Layer 1</title>
+  <rect fill="#007fff" height="44" id="svg_2" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" width="167.99999" x="4.5" y="42.5"/>
+  <polygon fill="#000000" id="svg_4"/>
+  <polygon fill="#000000" id="svg_5"/>
+  <text fill="#000000" font-family="serif" font-size="24" id="svg_8" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(4.13605 0 0 2.79561 -105.565 18.2313)" x="46.81003" xml:space="preserve" y="16.43077">JRL</text>
+  <polygon fill="#007fff" id="svg_11"/>
+  <text fill="#000000" font-family="serif" font-size="24" id="svg_13" stroke="#190d28" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(0.857695 0 0 0.730769 8.80066 43.2115)" x="80.706478" xml:space="preserve" y="51.499982">Juan Raul Lopez</text>
+  <line fill="none" id="svg_14" stroke="#190d28" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" x1="4.85417" x2="165.85417" y1="66.85765" y2="65.85765"/>
+ </g>
+</svg>
